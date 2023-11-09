@@ -1,0 +1,7 @@
+C:\Users\Миша\Projects\ProjectC\Provodnik\bin\Debug\Provodnik.exe.config
+C:\Users\Миша\Projects\ProjectC\Provodnik\bin\Debug\Provodnik.exe
+C:\Users\Миша\Projects\ProjectC\Provodnik\bin\Debug\Provodnik.pdb
+C:\Users\Миша\Projects\ProjectC\Provodnik\obj\Debug\Provodnik.csproj.AssemblyReference.cache
+C:\Users\Миша\Projects\ProjectC\Provodnik\obj\Debug\Provodnik.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Projects\ProjectC\Provodnik\obj\Debug\Provodnik.exe
+C:\Users\Миша\Projects\ProjectC\Provodnik\obj\Debug\Provodnik.pdb
