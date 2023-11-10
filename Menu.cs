@@ -21,7 +21,7 @@ namespace Provodnik
 
         public static int Show(int minstrelochka, int maxstrelochka)
         {
-            int pos = 1;
+            int pos = 3;
             ConsoleKeyInfo key;
             do
             {
@@ -34,10 +34,10 @@ namespace Provodnik
                 Console.SetCursorPosition(0, pos);
                 Console.WriteLine("  ");
                 
-                if (key.Key == ConsoleKey.UpArrow && pos != minstrelochka)
+                if (key.Key == ConsoleKey.UpArrow)
                 {
                     pos--;
-                    if (pos == 0)
+                    if (pos == 2)
                     {
                         pos = maxstrelochka;
                     }
@@ -49,7 +49,7 @@ namespace Provodnik
                     pos++;
                     if (pos == maxstrelochka + 1)
                     {
-                        pos = minstrelochka + 1;
+                        pos = minstrelochka;
                     }
                 }
 
