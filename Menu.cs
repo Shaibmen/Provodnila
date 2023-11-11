@@ -55,10 +55,9 @@ namespace Provodnik
 
                 if (key.Key == ConsoleKey.Escape)
                 {
-
-                    
+                    pos = -1;
+                    return pos;
                 }
-
 
             } while (key.Key != ConsoleKey.Enter);
             return pos;
